@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning <br />
-⚡ Fun fact: nothing
+
 
 <!--
 **jordanngo205/jordanngo205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
